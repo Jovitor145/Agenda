@@ -1,0 +1,17 @@
+com\agenda\dao\UsuarioDAO.class
+com\agenda\servlet\LoginServlet.class
+com\agenda\config\DBConnection.class
+com\agenda\filter\SessionFilter.class
+com\agenda\model\Categoria.class
+com\agenda\dao\CategoriaDAO.class
+com\agenda\servlet\AtividadesServlet.class
+com\agenda\servlet\CadastroServlet.class
+com\agenda\servlet\CalendarioServlet.class
+com\agenda\servlet\PerfilServlet.class
+com\agenda\servlet\LogoutServlet.class
+com\agenda\servlet\HomeServlet.class
+com\agenda\model\Atividade.class
+com\agenda\dao\PrioridadeDAO.class
+com\agenda\model\Prioridade.class
+com\agenda\dao\AtividadeDAO.class
+com\agenda\model\Usuario.class
